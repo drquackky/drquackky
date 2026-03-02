@@ -1,5 +1,10 @@
-## Hi there 👋
-• Passionate about health science and community well-being • Data-driven — I believe data reveals the truth about public health • Committed to contributing knowledge and meaningful impact to my community • Enjoy blending research, analytics, and coding to build useful projects • Focused on making public health insights more accessible and actionable
+## 🧟‍♂️ About me 🧟‍♂️
+
+- Passionate about health science and community well-being.
+- Committed to contributing knowledge and meaningful impact to my community.
+- Enjoy blending research, analytics, and coding to build useful projects.
+- Focused on making health knowledge more accessible and fun.
+- 
 <!--
 **drquackky/drquackky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
